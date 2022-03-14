@@ -7,5 +7,5 @@
 | :robot: | **I’m actively looking for job** |
 | 💬 | **Ask me about CodeYourFuture** |
 | 📫 | **Reach me via:**  *benjaminmhrdd@gmail.com* |
-| 😄 | **Pronouns: he/him/his** |
+| :raising_hand_man: | **Pronouns: he/him/his** |
 | ⚡ | **Fun fact: The Mona Lisa has no eyebrows!**|
