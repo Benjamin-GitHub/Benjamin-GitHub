@@ -3,7 +3,6 @@ https://skyline.github.com/Benjamin-GitHub/2021
 
 |    |   |
 | --- | --- |
-
 | 🌱  | **I’m currently learning test-driven development -> TDD**  |
 | :robot: | **I’m actively looking for job** |
 | 💬 | **Ask me about CodeYourFuture** |
