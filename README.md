@@ -1,7 +1,4 @@
 # Hi there
-https://skyline.github.com/Benjamin-GitHub/2021
-|    |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 | 🌱  | **I’m currently learning test-driven development -> TDD**  |
 
