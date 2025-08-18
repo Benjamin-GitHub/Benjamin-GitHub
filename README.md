@@ -1,6 +1,6 @@
 # Hi there
 
-| 🌱  | **I’m currently learning test-driven development -> TDD**  |
+| 🌱  | **I’m currently Agentic AI Models**  |
 
 | 📫 | **Reach me via:**  *benjaminmhrdd@gmail.com* |
 
