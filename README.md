@@ -2,7 +2,5 @@
 
 | 🌱  | **I’m currently looking into Agentic AI Models**  |
 
-| 📫 | **Reach me via:**  *benjaminmhrdd@gmail.com* |
-
-| :raising_hand_man: | **Pronouns: he/him/his** |
+| 📫 :raising_hand_man: | **Reach me via:**  *benjaminmhrdd@gmail.com* |
 
