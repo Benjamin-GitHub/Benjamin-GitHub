@@ -1,6 +1,6 @@
 # Hi there
 
-| 🌱  | **I’m currently Agentic AI Models**  |
+| 🌱  | **I’m currently looking into Agentic AI Models**  |
 
 | 📫 | **Reach me via:**  *benjaminmhrdd@gmail.com* |
 
